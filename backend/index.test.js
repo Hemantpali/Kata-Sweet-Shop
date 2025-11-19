@@ -1,6 +1,6 @@
 const axios = require('axios')
 
-const BASE_URL = 'http://localhost:3000/api'
+const BASE_URL = 'https://kata-sweet-shop-8w3q.onrender.com/api'
 
 describe('Authentication', ()=>{
     
